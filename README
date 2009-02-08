@@ -1,0 +1,27 @@
+reputation==========
+Get a quick overview of an account at a certain website.
+
+Usage:
+$ reputation <service> <account-name>
+
+Where service can be one of:
+- github
+- twitter
+- youtube
+
+E.g. 
+$ reputation github drnic
+
+Full name:           Dr Nic Williams
+Member since:        Jan 30, 2008 (376 days)
+Public repositories: 71 (created: 48, forked: 23)
+Followers:           354
+
+
+Enjoy.
+
+
+COPYRIGHT
+=========
+
+Copyright (c) 2008 Gert Goet. See LICENSE for details.
