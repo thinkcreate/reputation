@@ -1,5 +1,5 @@
 reputation==========
-Get a quick overview of an account at a certain website.
+Get a quick overview of someone's account at services like github, twitter etc.
 
 Usage:
 $ reputation <service> <account-name>

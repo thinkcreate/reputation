@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors = ["Gert Goet"]
   s.date = %q{2009-02-09}
   s.default_executable = %q{reputation}
-  s.description = %q{TODO}
+  s.description = %q{Get a quick overview of someone's account at services like github, twitter etc.}
   s.email = %q{gert@thinkcreate.nl}
   s.executables = ["reputation"]
   s.files = ["VERSION.yml", "bin/reputation", "lib/reputation.rb", "lib/services", "lib/services/base.rb", "lib/services/github.rb", "lib/services/twitter.rb", "lib/services/youtube.rb", "test/reputation_test.rb", "test/test_helper.rb"]
