@@ -4,10 +4,10 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
     s.name = "reputation"
-    s.summary = %Q{TODO}
+    s.summary = %Q{Get a quick overview of someone's account at services like github, twitter etc.}
     s.email = "gert@thinkcreate.nl"
     s.homepage = "http://github.com/thinkcreate/reputation"
-    s.description = "TODO"
+    s.description = "Get a quick overview of someone's account at services like github, twitter etc."
     s.authors = ["Gert Goet"]
   end
 rescue LoadError
